@@ -4,22 +4,7 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": [
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Blueprints/BP_Runner_Game.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Blueprints/BP_RunnerGameMode.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Maps/Runner_Map.umap",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Blueprints/BP_RunnerCharacter.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Blueprints/Jump_IA.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Blueprints/Move_IA.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Blueprints/IMC_RunnerDefault.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Blueprints/BP_Floor.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Textures/Floor_MAT.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Textures/FloorTile_Diff.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Textures/FloorTile_EM.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Textures/FloorTile_Nrm.uasset",
-				"/Users/ramkumar/Desktop/Georgian Semester 2/Mobile Game Design /Final Assignment/Escape_From_Enemy/Content/Runner/Blueprints/Slide_IA.uasset"
-			]
+			"files": []
 		}
 	]
 }
